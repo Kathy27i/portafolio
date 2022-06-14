@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EDUCACIÓN</title>
+</head>
+<body>
+    <main>
+        <h1 style="background-color: yellow; color: red;"> EDUCACIÓN </h1>
+        <article>
+            <section>
+                <p>Quito-Ecuador</p>
+                <p>UNIDAD EDUCATIVA FISCOMISIONAL DON BOSCO" </p>
+                <p>BACHILLERATO EN CIENCIAS</p>
+            </section>
+            
+            <section>
+                <p>Quito-Ecuador, Junio 2022</p>
+                <p>ESCUELA POLITÉCNICA NACIONAL </p>
+                <p>En curso</p>
+            </section>
+        </article>
+        
+    </main>
+</body>
+</html>
